@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1697732820 source:c:\users\medhat\onedrive\desktop\c2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1699801962 source:c:\users\medhat\onedrive\desktop\task2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
